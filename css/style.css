@@ -1,0 +1,382 @@
+.rufina-regular {
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rufina-bold {
+  font-family: "Rufina", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.nav-item .nav-link {
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin-right: 40px;
+}
+
+.signupbtn {
+  background: #000 !important;
+  border-radius: 30px !important;
+  padding: 12px 28px 12px 28px !important;
+  color: #fff !important;
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.carousel-caption {
+  margin-bottom: 250px;
+}
+
+.carousel-caption h5 {
+  font-size: 76px;
+  font-weight: 700;
+  font-family: "Rufina", serif;
+}
+
+#cards {
+  margin-top: 70px;
+  margin-bottom: 150px;
+}
+
+.crd-head {
+  font-family: "Rufina", serif;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.crd-para {
+  font-family: "Rufina", serif;
+  font-size: 18.75px;
+  font-weight: 400;
+  line-height: 26.27px;
+
+  margin-bottom: 40px;
+}
+
+#cards .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#cards .crd-bg {
+  border: 1px solid #bababa;
+  border-radius: 6px;
+  padding: 36px 28px 36px 28px;
+}
+
+#cards .card-title {
+  margin-bottom: 10px;
+}
+
+#imgcards {
+  margin-bottom: 100px;
+}
+#imgcards .card {
+  border: none;
+  margin-bottom: 20px;
+}
+
+#imgcards .imgbtn {
+  padding: 14px 27px 14px 27px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 40px;
+  font-family: "Rufina", serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#whyus {
+  margin-bottom: 100px;
+}
+#whyus .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#whyus .img-crd {
+  width: 46px;
+  margin-bottom: 15px;
+}
+
+#whyus .crd-bg {
+  border: 1px solid #bababa;
+  border-radius: 6px;
+  padding: 36px 28px 36px 28px;
+}
+
+#whyus .card-title {
+  margin-bottom: 10px;
+}
+
+#whyus .btmcontents .imgbtn {
+  padding: 12px 59px 12px 59px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 10px;
+  font-family: "Rufina", serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#gallery {
+  margin-bottom: 200px;
+}
+
+#gallery .slick-next {
+  display: none !important;
+}
+
+#events {
+  margin-bottom: 200px;
+}
+#events .btn {
+  border: 1px solid;
+  padding: 8px 29px 8px 29px;
+  border: 1px solid;
+  border-radius: 40px;
+}
+
+#about {
+  background: #fafafa;
+}
+
+.abrow {
+  display: flex;
+  align-items: center;
+}
+#about .topimg {
+  margin-top: 110px;
+}
+#about .abtcnt {
+  margin-top: 70px;
+}
+#about .main {
+  position: absolute;
+}
+
+#about .one {
+  position: relative;
+}
+
+#about .two {
+  position: relative;
+  bottom: 123px;
+  left: 269px;
+}
+
+#about .three {
+  position: relative;
+  bottom: 490px;
+  left: 75px;
+}
+
+#about .abthead {
+  margin-bottom: 30px;
+  font-family: "Rufina", serif;
+  font-weight: 700;
+  font-size: 44px;
+}
+
+#about .para {
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24;
+}
+
+#about .imgbtn {
+  padding: 14px 27px 14px 27px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 20px;
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#joinus {
+  background: rgb(124, 85, 235);
+  background: linear-gradient(
+    90deg,
+    rgba(124, 85, 235, 1) 0%,
+    rgba(76, 52, 143, 1) 100%
+  );
+  padding: 100px 0 100px 0;
+}
+
+#joinus .jhead {
+  font-family: "Rufina", serif;
+  font-weight: 700;
+  font-size: 45px;
+  color: #fff;
+}
+
+#joinus .jpara {
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+}
+
+#joinus .imgbtn {
+  padding: 14px 27px 14px 27px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 20px;
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+}
+
+#joinus .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#footer {
+  background: #000;
+  padding: 100px 0 100px 0 !important;
+}
+
+#footer .location {
+  margin-top: 95px;
+}
+
+#footer .vndr {
+  margin-top: 95px;
+}
+
+#footer .listul {
+  padding: 0;
+}
+
+#footer .vndr .imgbtn {
+  padding: 14px 27px 14px 27px;
+  border: 1px solid;
+  border-radius: 40px;
+  margin-top: 20px;
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+}
+
+#footer .textstyy {
+  font-family: "Rufina", serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 1024px) {
+  #cards .card-title {
+    font-size: 15px;
+  }
+  .card-text:last-child {
+    font-size: 14px;
+  }
+  .crd-para {
+    width: 715px;
+  }
+  #about .main {
+    width: 400px;
+  }
+  #about .one {
+    width: 400px;
+  }
+  #about .two {
+    width: 135px;
+    bottom: 90px;
+  }
+  #about .three {
+    width: 135px;
+    bottom: 375px;
+    left: 130px;
+  }
+  #about .imgbtn {
+    font-size: 13px;
+  }
+  #joinus .jpara {
+    font-size: 17px;
+  }
+  #footer .vndr .imgbtn {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #about .grpimages {
+    margin-left: 135px;
+  }
+
+  #about .main {
+  }
+  #about .one {
+  }
+  #about .two {
+    width: 174px;
+    bottom: 98px;
+    left: 224px;
+  }
+  #about .three {
+    width: 174px;
+    bottom: 364px;
+    left: 83px;
+  }
+  #about .imgbtn {
+    font-size: 13px;
+  }
+
+  #about .btmcnt {
+    margin-top: -80px;
+    margin-bottom: 110px;
+  }
+
+  #events .card3 {
+    margin-bottom: 50px;
+  }
+
+  #whyus .crd-bg {
+    margin-bottom: 30px;
+  }
+  #cards .card-text {
+    font-size: 12px;
+  }
+  #cards .crd-bg {
+    margin-bottom: 30px;
+  }
+  .crd-head {
+    font-size: 30px;
+  }
+  .crd-para {
+    
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+  #events {
+    margin-bottom: 100px;
+  }
+
+  #events .card-text {
+    font-size: 13px;
+  }
+}
+
+
+
+@media only screen and (max-width: 426px) {
+   
+
+
+}
+
+@media only screen and (max-width: 321px) {
+}
